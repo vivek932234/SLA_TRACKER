@@ -1,0 +1,9 @@
+ticket_id,reason
+T004,Resolved before created
+,Missing ticket_id
+T028,Invalid priority
+T029,Invalid priority
+T030,Invalid date format: 31/09/2026 10:00
+T031,Missing created_at
+T033,Resolved before created
+T034,Invalid priority

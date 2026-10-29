@@ -1,0 +1,33 @@
+ticket_id,priority,hours_taken,sla_hours,breached,usage_percent,risk_status
+T001,P2,8.0,8,No,100.0,At Risk
+T002,P3,9.0,24,No,37.5,Safe
+T003,P1,5.0,4,Yes,125.0,Breached
+T005,P4,146.9,72,Yes,204.03,Breached
+T006,P2,4.0,8,No,50.0,Safe
+T007,P3,1.5,24,No,6.25,Safe
+T008,P2,2.0,8,No,25.0,Safe
+T009,P1,3.5,4,No,87.5,At Risk
+T010,P2,8.0,8,No,100.0,At Risk
+T011,P1,4.5,4,Yes,112.5,Breached
+T012,P3,5.0,24,No,20.83,Safe
+T013,P4,44.0,72,No,61.11,Safe
+T014,P3,9.0,24,No,37.5,Safe
+T015,P2,3.0,8,No,37.5,Safe
+T016,P2,0.0,8,No,0.0,Safe
+T017,P3,10.0,24,No,41.67,Safe
+T018,P1,3.0,4,No,75.0,At Risk
+T019,P1,6.0,4,Yes,150.0,Breached
+T020,P4,45.0,72,No,62.5,Safe
+T021,P2,8.0,8,No,100.0,At Risk
+T022,P2,9.5,8,Yes,118.75,Breached
+T023,P3,15.0,24,No,62.5,Safe
+T024,P3,10.0,24,No,41.67,Safe
+T025,P4,66.0,72,No,91.67,At Risk
+T026,P1,2.0,4,No,50.0,Safe
+T027,P2,3.0,8,No,37.5,Safe
+T032,P4,4.0,72,No,5.56,Safe
+T035,P2,42.9,8,Yes,536.3,Breached
+T036,P3,22.9,24,No,95.43,At Risk
+T037,P4,28.9,72,No,40.14,Safe
+T038,P1,75.9,4,Yes,1897.59,Breached
+T039,P3,9.0,24,No,37.5,Safe
